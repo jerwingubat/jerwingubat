@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer and UI/UX designer from the Philippines 🇵🇭. I specialize in building clean, user-friendly digital experiences — from mobile apps to web platforms — and I’m exploring how Machine Learning can help us build smarter, more intuitive software.
+I'm a passionate full-stack developer and UI/UX designer from the Philippines 🇵🇭. I specialize in building clean, user-friendly digital experiences from mobile apps to web platforms and I’m exploring how Machine Learning can help us build smarter, more intuitive software.
 
 I'm currently teaching Computer Science at Cavite State University while working with freelance clients to bring their ideas to life through intuitive design and functional code.
 
