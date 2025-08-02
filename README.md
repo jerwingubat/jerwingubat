@@ -3,7 +3,7 @@
 
 # 👋 Hi there, I'm Jerwin Gubat
 
-### 🎨 UI/UX Designer • 💻 Web & Mobile Developer • 🤖 ML Explorer
+<!--### 🎨 UI/UX Designer • 💻 Web & Mobile Developer • 🤖 ML Explorer-->
 
 ---
 
