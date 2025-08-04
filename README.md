@@ -57,8 +57,6 @@ Browse more apps, websites, and tools in my
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jerwingubat&theme=radical&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Jerwin's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jerwingubat&bg_color=1e1e1e&color=ffffff&line=00e1ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 ## 🔭 What I’m Working On
