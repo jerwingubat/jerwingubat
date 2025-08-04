@@ -51,8 +51,13 @@ Browse more apps, websites, and tools in my
 
 ## 📈 GitHub Stats
 
-![Jerwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerwingubat&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerwingubat&layout=compact&theme=radical)
+![Jerwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerwingubat&show_icons=true&theme=radical&count_private=true&hide=issues)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerwingubat&layout=compact&theme=radical&langs_count=10)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jerwingubat&theme=radical&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Jerwin's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jerwingubat&bg_color=1e1e1e&color=ffffff&line=00e1ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
